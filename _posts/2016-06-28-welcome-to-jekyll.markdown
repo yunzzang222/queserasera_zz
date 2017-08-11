@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "나으 첫번째 글이다!"
+bg: 다운로드.jpeg
 crawlertitle: "이랏샤이마세에~!"
 summary: "ㅇㅅaㅇ"
 date:   2017-08-11 19:50:00 +0700
