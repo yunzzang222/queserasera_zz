@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-crawlertitle: "How to use jekyll"
-summary: "Jekyll default page"
-date:   2016-06-28 23:09:47 +0700
+title:  "나으 첫번째 글이다!"
+crawlertitle: "이랏샤이마세에~!"
+summary: "ㅇㅅaㅇ"
+date:   2017-08-11 19:50:00 +0700
 categories: posts
-tags: 'jekyll'
-author: redVi
+tags: '왈왈'
+author: 윤짱이222
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+말복기념 ㅇㅅaㅇ 햄버거 머근거 안비밀~ 베토디 꿀맛 춉춉
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+나의 [vsco]에도 초대함니당 이건 테스트테스트 ㅋㄷㅋㄷ
 
-Jekyll also offers powerful support for code snippets:
+[vsco] : http://vsco.com/yoooonseo
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
