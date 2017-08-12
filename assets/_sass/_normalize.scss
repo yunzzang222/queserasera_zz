@@ -94,7 +94,13 @@ sub {
 
 img {
     border: 0;
+    
+        .leftimage{
+         margin: 0 auto;
+         display block;
+        }
 }
+
 
 svg:not(:root) {
     overflow: hidden;
