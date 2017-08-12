@@ -2,10 +2,10 @@
 bg: "tag.jpg"
 layout: page
 permalink: /posts/
-title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
-active: archive
+title: "ㅇㅅaㅇ"
+crawlertitle: "개소리 모아보기"
+summary: "꺄르륵왈왈왈꺄르륵"
+active: ㅇㅅaㅇ
 ---
 
 {% for tag in site.tags %}
