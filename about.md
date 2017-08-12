@@ -1,19 +1,11 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
-permalink: /about/
-summary: "About this blog"
-active: about
+title: "진성 다이어터"
+crawlertitle: "매일매일이 다이어트"
+permalink: /진성다이어터/
+summary: "윤짱이 다이어트일기"
+active: 진성다이어터
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+인생을 살면서 한번쯤은 기아난민이 되어보자!
