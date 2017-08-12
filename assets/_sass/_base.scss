@@ -147,8 +147,9 @@ blockquote {
     margin-top: 0;
     margin-bottom: 1em;
   }
+  
   &:before {
-    content: '';
+    /* content: '"'; */
     position: absolute;
     left: .3em;
     top:0;
