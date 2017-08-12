@@ -140,7 +140,7 @@ table caption {
 * ========================================================================== */
 blockquote {
   border: 1px solid #ddd;
-  padding: 1em 1em 1em 2em;
+  padding: 1em 1em 1em 1em;
   position: relative;
   margin-left: 0;
   p {
@@ -148,7 +148,7 @@ blockquote {
     margin-bottom: 1em;
   }
   &:before {
-    content: '"';
+    content: '';
     position: absolute;
     left: .3em;
     top:0;
