@@ -1,10 +1,10 @@
 ---
 bg: "tag.jpg"
 layout: page
-permalink: /posts/
+permalink: /illgijang/
 title: "ㅇㅅaㅇ"
-crawlertitle: "개소리 모아보기"
-summary: "꺄르륵왈왈왈꺄르륵"
+crawlertitle: "나는 아무 생각이 없다"
+summary: "왜냐면 아무 생각이 없기 "
 active: ㅇㅅaㅇ
 ---
 
