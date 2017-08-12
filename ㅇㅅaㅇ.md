@@ -4,7 +4,7 @@ layout: page
 permalink: /illgijang/
 title: "ㅇㅅaㅇ"
 crawlertitle: "나는 아무 생각이 없다"
-summary: "왜냐면 아무 생각이 없기 "
+summary: "개미는 뚠뚠 ♫"
 active: ㅇㅅaㅇ
 ---
 
