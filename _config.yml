@@ -43,7 +43,3 @@ sass:
 
 images: '/assets/images'
 
-  .leftimage{
-    margin: 0 auto;
-    display block;
-  }
